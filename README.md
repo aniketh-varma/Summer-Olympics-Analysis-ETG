@@ -25,3 +25,5 @@ This repository contains the assignment 'Summer Olympics Analysis'. This assignm
 Python 3.7
 
 Jupyter Notebook (Anaconda Navigator)
+
+Pandas
